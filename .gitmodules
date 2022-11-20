@@ -1,0 +1,3 @@
+[submodule "meter-reading-acquisition"]
+	path = meter-reading-acquisition
+	url = https://github.com/dalvisanket/meter-reading-acquisition
