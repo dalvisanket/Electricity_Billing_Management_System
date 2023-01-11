@@ -1,3 +1,6 @@
 [submodule "meter-reading-acquisition"]
 	path = meter-reading-acquisition
 	url = https://github.com/dalvisanket/meter-reading-acquisition
+[submodule "ebms-user-interface-service"]
+	path = ebms-user-interface-service
+	url = https://github.com/dalvisanket/ebms-user-interface-service.git
