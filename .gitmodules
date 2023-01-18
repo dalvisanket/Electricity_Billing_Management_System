@@ -4,3 +4,6 @@
 [submodule "ebms-user-interface-service"]
 	path = ebms-user-interface-service
 	url = https://github.com/dalvisanket/ebms-user-interface-service.git
+[submodule "ebms-service-registry"]
+	path = ebms-service-registry
+	url = https://github.com/dalvisanket/ebms-service-registry.git
