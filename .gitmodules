@@ -7,3 +7,6 @@
 [submodule "ebms-service-registry"]
 	path = ebms-service-registry
 	url = https://github.com/dalvisanket/ebms-service-registry.git
+[submodule "billing"]
+	path = billing
+	url = https://github.com/dalvisanket/billing.git
